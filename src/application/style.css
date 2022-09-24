@@ -1,0 +1,81 @@
+.mainmenu{
+	-fx-background-color: #4caf50;
+}
+ 
+.mainmenu .menu .label{
+	-fx-text-fill: #FFFFFF;
+}
+
+.badge{
+	-fx-text-fill: white;
+	-fx-background-radius: 10px;
+	-fx-padding: 5 15;
+	-fx-font-size: 20px;
+}
+
+.cbutton{
+	-fx-background-color: #ffffff;
+}
+
+.cbutton:hover{
+	-fx-background-color: #c1d5e0;
+}
+
+.cbutton:pressed{
+	-fx-background-color: #babdbe;
+}
+
+.customInput{
+	-fx-background-color: #e6e6e6;
+	-fx-border-color: white white #009624 white;
+	-fx-border-width: 3 0 3 3;
+}
+
+.table-view .column-header {
+    -fx-background-color: transparent;
+}
+
+.table-view .column-header-background{
+    -fx-background-color: #007842;
+    -fx-background-radius: 7px 7px 0px 0px;
+    -fx-background-insets: 0 0px 0 0;
+    -fx-padding: 0 0 0px 0;  
+    -fx-text-background-color: #FFFFFF;
+}
+
+
+.table-view .table-cell{
+    -fx-border-color: transparent;
+    -fx-padding: 2 0 2 10px;
+}
+
+
+.table-row-cell: odd{
+    -fx-background-color: #93f9b911;
+    -fx-background-insets: 0, 0 0 1 0;
+    -fx-padding: 0.0em;
+}
+
+.table-row-cell: even{
+    -fx-background-color: #1dbbdd11;
+    -fx-background-insets: 0, 0 0 1 0;
+    -fx-padding: 0.0em;
+}
+
+/* Row hovered */
+.table-view .table-row-cell:filled:hover {
+	-fx-background-color: #FFFFFF;
+    -fx-text-background-color: #007842;
+}
+
+.table-row-cell:highlighted{
+    -fx-background-color: #007842;
+    -fx-text-fill: #FFFFFF;
+    -fx-text-background-color: #FFFFFF;
+}
+
+.table-row-cell:selected{
+    -fx-background-color: #007842;
+    -fx-text-fill: #FFFFFF;
+    -fx-text-background-color: #FFFFFF;
+}

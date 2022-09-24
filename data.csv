@@ -1,0 +1,37 @@
+PatientID,PatientName,PatientAddress,PatientAge,PatientSex,PatientBill,PatientDateAdmitted,PatientCondition,isAdmitted,hasPaid
+P1,Peter Johnson,"23, Sweet Avenue, Ibadan",23,Male,7500,2022-08-24,Malaria,No,No
+P2,Janet Bose,"1, Iwo Road, Ibadan",19,Female,7500,2022-08-16,Fever,Yes,No
+P3,Peter /idan,"1, Cresent Road, Ibadan",67,Male,23000,2022-08-24,Malaria,Yes,No
+P4,Precious Favour,"56, IAvenue street, Lagos",34,Female,23000,2022-04-12,Coronavirus,No,No
+P5,David Zain Ajoo,"11, Avenue Road, Lagos",24,Male,23000,2021-08-13,Typhoid Fever,Yes,No
+P6,Vanessa Jones,"1, Bodija Road, Ibadan",15,Female,23000,2022-08-23,Malaria,Yes,No
+P7,Elijah Peter,"1, Iwo Road, Ibadan",33,Male,23000,2022-08-23,Ulcer,No,No
+P8,Olamide Ogun,"45, Iwo Road, Ibadan",21,Female,23000,2022-07-24,Syphillis,Yes,Yes
+P9,Jumaa Horla,"1, Iwo Street, Ibadan",54,Others,23000,2022-08-22,Malaria,No,Yes
+P10,Peter James,"23, Sweet Avenue, Ibadan",23,Male,23000,2022-08-24,Malaria,Yes,Yes
+P11,Janet Bose,"1, Iwo Road, Ibadan",19,Female,23000,2022-08-16,Fever,No,Yes
+P12,Peter idanara,"1, Cresent Road, Ekiti",67,Male,23000,2022-08-24,Malaria,Yes,Yes
+P13,Precious Blessing,"56, IAvenue street, Lagos",34,Female,23000,2022-04-12,Coronavirus,Yes,Yes
+P14,David Zain Pen,"11, Avenue Road, Lagos",24,Male,23000,2021-08-13,Typhoid Fever,Yes,Yes
+P15,Jessica Jones,"1, Bodija Road, Ibadan",15,Female,23000,2022-08-23,Malaria,No,Yes
+P16,Elijah Peterson,"1, Iwo Road, Ibadan",33,Male,23000,2022-08-23,Ulcer,Yes,Yes
+P17,Olamipo Ogun,"45, Iwo Road, Ibadan",21,Female,23000,2022-07-24,Syphillis,Yes,Yes
+P18,Jumaa Horlamide,"1, Iwo Street, Ibadan",54,Others,23000,2022-08-22,Malaria,No,Yes
+P19,James Johnson,"23, Sweet Avenue, Ibadan",23,Male,23000,2022-08-24,Malaria,No,Yes
+P20,Janet Borose,"1, Iwo Road, Ibadan",19,Female,23000,2022-08-16,Fever,Yes,No
+P21,Peter Ridan,"1, Cresent Road, Ibadan",67,Male,23000,2022-08-24,Malaria,Yes,No
+P22,Blessing Favour,"56, IAvenue street, Lagos",34,Female,23000,2022-04-12,Coronavirus,No,No
+P23,David Zain Ajom,"11, Avenue Road, Lagos",24,Male,23000,2021-08-13,Typhoid Fever,Yes,Yes
+P24,Vanessa Jones,"1, Bodija Road, Ibadan",15,Female,23000,2022-08-23,Malaria,Yes,No
+P25,Mark Peter,"1, Iwo Road, Ibadan",33,Male,23000,2022-08-23,Ulcer,No,No
+P26,Olamide Oyo,"45, Iwo Road, Ibadan",21,Female,23000,2022-07-24,Syphillis,Yes,Yes
+P27,Jumaa Horlami,"1, Iwo Street, Ibadan",54,Others,,2022-08-22,Malaria,Yes,No
+P28,Peter Jameson,"23, Sweet Avenue, Ibadan",23,Male,,2022-08-24,Malaria,No,No
+P29,Janetine Bose,"1, Iwo Road, Ibadan",19,Female,,2022-08-16,Fever,Yes,Yes
+P30,Peterson idan,"1, Cresent Road, Ibadan",67,Male,,2022-08-24,Malaria,Yes,Yes
+P31,Precious Favour,"56, IAvenue street, Lagos",34,Female,,2022-04-12,Coronavirus,No,Yes
+P32,David Zayy Ajoo,"11, Avenue Road, Lagos",24,Male,,2021-08-13,Typhoid Fever,No,Yes
+P33,Vanessa Jones,"1, Bodija Road, Ibadan",15,Female,10000,2022-08-23,Malaria,Yes,No
+P34,Elijah Peteride,"1, Iwo Road, Ibadan",33,Male,9000000,2022-08-23,Ulcer,No,Yes
+P35,Olamidelo Oguniyi,"45, Iwo Road, Ibadan",21,Female,,2022-07-24,Syphillis,Yes,No
+P36,Jumayuim Horla,"1, Iwo Street, Ibadan",54,Others,,2022-08-22,Malaria,Yes,No
